@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "concurrently": "^9.0.1",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4"
+  },
+  "name": "mern-blog",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "BKarthik",
+  "license": "ISC",
+  "description": "Learning MERN from building a blog"
+}
